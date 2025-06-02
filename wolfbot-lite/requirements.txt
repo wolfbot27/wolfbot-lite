@@ -1,0 +1,8 @@
+
+ccxt==4.1.74
+websockets==12.0
+pandas
+numpy
+requests
+ta
+talib
